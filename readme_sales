@@ -1,43 +1,43 @@
-**Superstore Sales Dashboard**
+Superstore Sales Dashboard
 
 This repository contains a Power BI dashboard designed to visualize sales data for a superstore. The dashboard provides insights into various sales metrics, including sales volume, profit, and delivery times, segmented by different categories.
 
 Project Overview
 
-The **Superstore Sales Dashboard** is a comprehensive tool for analyzing sales performance across different regions, categories, and time periods. Key features of the dashboard include:
+The Superstore Sales Dashboard is a comprehensive tool for analyzing sales performance across different regions, categories, and time periods. Key features of the dashboard include:
 
-- **Sales Metrics**: Total sales, quantity sold, profit, and average delivery days.
-- **Segment Analysis**: Breakdown of sales by customer segment (Home Office, Corporate, Consumer).
-- **Monthly Trends**: Year-over-year comparison of monthly sales and profit.
-- **Shipping Methods**: Sales analysis by different shipping methods.
-- **Geographical Insights**: Sales and profit visualization by state.
-- **Payment Methods**: Analysis of sales by payment mode.
-- **Category Analysis**: Sales and profit data segmented by product categories and subcategories.
+- Sales Metrics: Total sales, quantity sold, profit, and average delivery days.
+- Segment Analysis: Breakdown of sales by customer segment (Home Office, Corporate, Consumer).
+- Monthly Trends: Year-over-year comparison of monthly sales and profit.
+- Shipping Methods: Sales are analyzed using different shipping methods.
+- Geographical Insights: Sales and profit visualization by state.
+- Payment Methods: Analysis of sales by payment mode.
+- Category Analysis: Sales and profit data segmented by product categories and subcategories.
 
 ## File Structure
 
-- **Superstore Sales Dashboard (Power BI).pbix**: The main Power BI file containing the data model, queries, and visualizations.
-- **Sales Analysis.png**: An image of the dashboard that provides a visual summary of the project.
+- Superstore Sales Dashboard (Power BI).pbix: The main Power BI file containing the data model, queries, and visualizations.
+- Sales Analysis.png: An image of the dashboard that provides a visual summary of the project.
 
 ## Prerequisites
 
 To view and interact with the dashboard, you'll need:
 
-- **Power BI Desktop**: [Download here](https://powerbi.microsoft.com/en-us/downloads/)
+- Power BI Desktop: [Download here](https://powerbi.microsoft.com/en-us/downloads/)
 
 ## Getting Started
 
-1. **Clone the repository**:
-    ```bash
+1. Clone the repository:
+    
     git clone https://github.com/your-username/superstore-sales-dashboard.git
-    ```
-2. **Open the Power BI file**:
+ 
+2. Open the Power BI file:
     - Launch Power BI Desktop and open the `Superstore Sales Dashboard (Power BI).pbix` file.
 
-3. **Explore the Dashboard**:
+3. Explore the Dashboard:
     - Navigate through the various tabs to explore insights on sales performance, shipping methods, and other key metrics.
 
-4. **Review the Dashboard Image**:
+4. Review the Dashboard Image:
     - Check the `Sales Analysis.png` file for a quick visual reference to the dashboard.
 
 ## Data Sources
