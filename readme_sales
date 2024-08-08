@@ -24,14 +24,14 @@ The Superstore Sales Dashboard is a comprehensive tool for analyzing sales perfo
 
 To view and interact with the dashboard, you'll need:
 
-- Power BI Desktop: [Download here](https://powerbi.microsoft.com/en-us/downloads/)
+- Power BI Desktop: https://github.com/arthsukani/cricket-sales_data_analyst
 
 ## Getting Started
 
 1. Clone the repository:
     
-    git clone https://github.com/your-username/superstore-sales-dashboard.git
- 
+    git clone: https://github.com/arthsukani/cricket-sales_data_analyst/blob/main/Superstore%20Sales%20Dashboard%20(Power%20BI).pbix 
+
 2. Open the Power BI file:
     - Launch Power BI Desktop and open the `Superstore Sales Dashboard (Power BI).pbix` file.
 
